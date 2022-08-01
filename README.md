@@ -1,4 +1,3 @@
-
 # Creating Functions - Lab
 
 ## Introduction
@@ -6,7 +5,9 @@
 As you know, we can use functions to name snippets of our code, thus making our code more expressive. We can also use functions to allow us to reuse our code. In this lab we will practice using functions for both of those purposes.
 
 ## Objectives
+
 You will be able to:
+
 * Declare and use a basic function
 
 ## Instructions: 
